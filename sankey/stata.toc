@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p sankey A Stata package for Sankey diagrams Use sankey With STATA 18

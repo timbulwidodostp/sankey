@@ -1,6 +1,8 @@
 # sankey
 A Stata package for Sankey diagrams Use sankey With STATA 18
 
+https://www.youtube.com/watch?v=7ASTKWjvrQg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
